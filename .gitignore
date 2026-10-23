@@ -1,0 +1,19 @@
+# Built PHP runtimes (recreate with ./bootstrap.sh)
+/runtime/
+
+# PHP source trees, tarballs, and build artifacts (recreate with ./bootstrap.sh)
+/src/
+
+# Lab runtime output
+/lab/logs/
+/lab/.pid-*
+/lab/logs/sess-*/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.DS_Store
+*.swp
+*.swo

@@ -1,0 +1,1 @@
+FLAG{php2shell_8_5_11_is_vulnerable_8_5_12_is_fixed}
